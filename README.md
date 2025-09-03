@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with pyhton<br>🌱 I’m currently learning pyhton and c++<br>💬 Ask me about<br>⚡ Fun fact i'm a learner and would like to learn<br>
+🔭 I’m currently working on billing project<br>👯 I’m looking for help with pyhton<br>🌱 I’m currently learning pyhton and c++<br>💬 ⚡ Fun fact i'm a learner and would like to learn<br>
 
 
 ## 🌐 Socials:
